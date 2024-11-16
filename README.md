@@ -1,8 +1,8 @@
-##Thread safe queue
+## Thread safe queue
 
 Light thread safe queue implementation
 
-###Installation
+### Installation
 
 	1. Clone the repo 
 	   ```sh
@@ -16,4 +16,4 @@ Light thread safe queue implementation
 	   sudo make install
 	   ```
 
-##WIP
+## WIP
