@@ -8,6 +8,7 @@ Light thread safe queue implementation
 	   ```sh
 	   https://github.com/tabrisovstepan/thread_safe_queue.git
 	   ```
+    
 	2. Install
 	   ```sh
 	   cd thread_safe_queue/
